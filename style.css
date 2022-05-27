@@ -1,6 +1,9 @@
 body {
-    background: white;
+    background-image: url("https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2019/04/shutterstock_407554567-compressor-1.jpg");
     text-align: center;
   }
 h1 {text-size-adjust: 45px;
     color: red}
+
+    img {width: 500px;
+        height: 500px;}
